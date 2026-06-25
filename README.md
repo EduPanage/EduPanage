@@ -1,16 +1,119 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eduardo Panage</h1>
 
-<!--
-**EduPanage/EduPanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineer • Full Stack Developer • BI Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about creating and learning new things. Spenting hours engrossed in web programming and constantly seeks to learn. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Software Engineering graduate from UNIGRAN
+* 💼 Currently working as a **BI Developer** at UEMS
+* 🌱 Expanding my expertise in **Full Stack Development**
+* 🐍 Building applications with **Python, Flask and Django**
+* 📊 Working with **Qlik Sense, SQL and PostgreSQL**
+* 🐳 Studying containerization and deployment with **Docker**
+* 🎯 Career goal: Become a Full Stack Developer focused on modern web applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgresql" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask" />
+</p>
+
+### Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=bootstrap" /> </p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+### Business Intelligence
+
+* Qlik Sense
+* SQL
+* ETL
+* Data Modeling
+* QVD Generation
+* KPI Development
+* Set Analysis
+* Dashboard Development
+
+---
+
+## 📈 Current Focus
+
+```text
+✔ Full Stack Development
+✔ Python Ecosystem
+✔ API Development
+✔ SQL & Database Design
+✔ Docker & Containers
+
+```
+
+## Styding/Improving
+
+```text
+✔ JavaScript (and its API's)
+✔ Node.js
+✔ Python
+✔ CSS good pratices
+✔ UX Design
+
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduPanage&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduPanage&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌎 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/eduardo-panage-avila/" target="_blank">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:edupanage.dev@gmail.com">
+    Email
+  </a>
+  •
+  <a href="https://github.com/EduPanage">
+    GitHub
+  </a>
+</p>
+
+---
+
+## 💡 Philosophy
+
+> Consistency beats intensity.
+>
+> Small improvements made every day eventually become skills, projects and opportunities.
+
+---
