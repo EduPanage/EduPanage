@@ -70,7 +70,7 @@ Passionate about creating and learning new things. Spenting hours engrossed in w
 
 ```
 
-## Styding/Improving
+## Studying/Improving
 
 ```text
 ✔ JavaScript (and its API's)
