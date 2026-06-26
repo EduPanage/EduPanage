@@ -46,17 +46,6 @@ Passionate about creating and learning new things. Spenting hours engrossed in w
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
-### Business Intelligence
-
-* Qlik Sense
-* SQL
-* ETL
-* Data Modeling
-* QVD Generation
-* KPI Development
-* Set Analysis
-* Dashboard Development
-
 ---
 
 ## 📈 Current Focus
@@ -70,7 +59,7 @@ Passionate about creating and learning new things. Spenting hours engrossed in w
 
 ```
 
-## Studying/Improving
+## 📖 Studying/Improving
 
 ```text
 ✔ JavaScript (and its API's)
@@ -89,31 +78,3 @@ Passionate about creating and learning new things. Spenting hours engrossed in w
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduPanage&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduPanage&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🌎 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/eduardo-panage-avila/" target="_blank">
-    LinkedIn
-  </a>
-  •
-  <a href="mailto:edupanage.dev@gmail.com">
-    Email
-  </a>
-  •
-  <a href="https://github.com/EduPanage">
-    GitHub
-  </a>
-</p>
-
----
-
-## 💡 Philosophy
-
-> Consistency beats intensity.
->
-> Small improvements made every day eventually become skills, projects and opportunities.
-
----
